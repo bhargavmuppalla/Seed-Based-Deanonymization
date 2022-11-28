@@ -1,4 +1,14 @@
 # Seed-Based-Deanonymization
+## About
+Data anonymization is a type of information
+sanitization whose intent is privacy protection. It
+is the process of either encrypting or removing
+personally identifiable information from data
+sets, so that the people whom the data describe
+remain anonymous <br/> <br/>
+
+Seed-based-deanonymization is an attack to deanonymize the data. which is identifying the personal information from non-personal data.<br/>
+
 Source code is available in Project1_final.py file. Code is written in local environment, So to execute this python file, 3 file paths has to be updated in main method.
 
  1. seed_G1 takes seed_G1.edgelist file path.
