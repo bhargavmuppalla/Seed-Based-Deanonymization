@@ -8,4 +8,3 @@ Source code is available in Project1_final.py file. Code is written in local env
 After updating these file paths, Project1_final.py can be executed from terminal using command python Project1_final.py or from any editor like vscode. 
 
 The execution takes around 15 min for given data and output is generated in muppallaProject1Output.txt file which will be generated in the same location from which python file is executed.
-![image](https://user-images.githubusercontent.com/39513300/204170952-6f8ecde1-c519-4111-b4f9-e0319be4bd03.png)
